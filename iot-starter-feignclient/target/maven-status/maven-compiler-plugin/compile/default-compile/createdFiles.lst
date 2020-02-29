@@ -1,8 +1,0 @@
-io\ac\starter\feignclient\FeignClientConfig.class
-io\ac\starter\feignclient\FeignParamValueProvider.class
-io\ac\starter\feignclient\InnerHooker.class
-io\ac\starter\feignclient\InnerServiceException.class
-io\ac\starter\autoconfigure\FeignClientAutoConfiguration.class
-io\ac\starter\feignclient\InnerRestResultHandler.class
-META-INF\spring-configuration-metadata.json
-io\ac\starter\autoconfigure\FeignClientProperties.class

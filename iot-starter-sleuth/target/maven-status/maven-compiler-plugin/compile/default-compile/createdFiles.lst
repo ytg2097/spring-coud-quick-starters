@@ -1,5 +1,0 @@
-io\ac\starter\autoconfigure\SleuthAutoConfiguration.class
-io\ac\starter\sleuth\SleuthInterceptor.class
-io\ac\starter\sleuth\RestResponseBodyAdvice.class
-io\ac\starter\autoconfigure\SleuthProperties.class
-META-INF\spring-configuration-metadata.json
