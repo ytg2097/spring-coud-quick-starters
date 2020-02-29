@@ -1,0 +1,5 @@
+io\ac\starter\idempotency\IdempotencyOperationInterceptor.class
+io\ac\starter\autoconfigure\IdempotencyProperties.class
+io\ac\starter\idempotency\OpTokenRepository.class
+io\ac\starter\autoconfigure\IdempotencyAutoConfiguration.class
+META-INF\spring-configuration-metadata.json

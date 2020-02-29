@@ -1,0 +1,6 @@
+E:\ac\iot-starters\iot-starter-idholder\src\main\java\io\ac\starter\autoconfigure\IdHolderProperties.java
+E:\ac\iot-starters\iot-starter-idholder\src\main\java\io\ac\starter\operatorid\OperatorIdCannotBeNullException.java
+E:\ac\iot-starters\iot-starter-idholder\src\main\java\io\ac\starter\operatorid\OperatorIdHolder.java
+E:\ac\iot-starters\iot-starter-idholder\src\main\java\io\ac\starter\tenant\TenantCannotBeNullException.java
+E:\ac\iot-starters\iot-starter-idholder\src\main\java\io\ac\starter\autoconfigure\IdHolderAutoConfiguration.java
+E:\ac\iot-starters\iot-starter-idholder\src\main\java\io\ac\starter\tenant\TenantIdHolder.java

@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spring.application",
+      "type": "io.ac.starter.autoconfigure.IdHolderProperties",
+      "sourceType": "io.ac.starter.autoconfigure.IdHolderProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.application.name",
+      "type": "java.lang.String",
+      "sourceType": "io.ac.starter.autoconfigure.IdHolderProperties"
+    }
+  ],
+  "hints": []
+}

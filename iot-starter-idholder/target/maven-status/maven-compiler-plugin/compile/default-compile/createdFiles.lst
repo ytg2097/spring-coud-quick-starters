@@ -1,0 +1,7 @@
+io\ac\starter\tenant\TenantCannotBeNullException.class
+io\ac\starter\tenant\TenantIdHolder.class
+io\ac\starter\operatorid\OperatorIdCannotBeNullException.class
+io\ac\starter\autoconfigure\IdHolderAutoConfiguration.class
+io\ac\starter\autoconfigure\IdHolderProperties.class
+io\ac\starter\operatorid\OperatorIdHolder.class
+META-INF\spring-configuration-metadata.json

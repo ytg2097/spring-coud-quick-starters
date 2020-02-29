@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59a0b892-bbbc-4fec-b3b2-7fbcd332b947" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/iot-starter-feignclient/target/" />
+    <ignored path="$PROJECT_DIR$/iot-starter-sleuth/target/" />
+    <ignored path="$PROJECT_DIR$/iot-starter-idholder/target/" />
+    <ignored path="$PROJECT_DIR$/iot-starter-idempotency/target/" />
+    <ignored path="$PROJECT_DIR$/iot-starter-redisclient/target/" />
+    <ignored path="$PROJECT_DIR$/iot-starter-exceptionhandler/target/" />
+    <ignored path="$PROJECT_DIR$/iot-starter-domaineventpublisher/target/" />
+    <ignored path="$PROJECT_DIR$/iot-starter-domaineventhandler/target/" />
+    <ignored path="$PROJECT_DIR$/iot-starter-scheduling/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="iot-starters" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.4/aspectjweaver-1.9.4.jar!/org/aspectj/lang/annotation/Around.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/feignclient/FeignClientConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/feignclient/FeignParamValueProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/autoconfigure/FeignClientAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/autoconfigure/FeignClientProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/resources/META-INF/spring.factories">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/feignclient/InnerHooker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="896">
+              <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/resources/META-INF/spring.factories">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.2.RELEASE/spring-core-5.2.2.RELEASE.jar!/org/springframework/util/Assert.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1344">
+              <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ubt</find>
+      <find>uare</find>
+      <find>1.0-SNAPSHOT</find>
+      <find>iot-web-common</find>
+      <find>ComponentScan</find>
+      <find>5</find>
+      <find>fast</find>
+      <find>lock</find>
+      <find>ConditionalOnProperty</find>
+      <find>com.fasterxml.jackson</find>
+      <find>kafkaTransactionManager</find>
+      <find>web-common</find>
+      <find>LOCK_OCCUPIED</find>
+      <find>netf</find>
+      <find>Logger</find>
+      <find>se</find>
+      <find>service-device</find>
+      <find>service</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\ac\iot-starters\iot-starter-idholder\src\main\resources</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/event/consumer/DomainEventRecordingConsumerAspect.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/event/consumer/DomainEventRecordDao.java" />
+        <option value="$PROJECT_DIR$/iot-starter-exceptionhandler/pom.xml" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/autoconfigure/DomainEventHandlerRedisProperties.java" />
+        <option value="$PROJECT_DIR$/iot-starter-idholder/src/main/java/io/ac/iot/operatorid/OperatorIdHolder.java" />
+        <option value="$PROJECT_DIR$/iot-starter-idholder/src/main/java/io/ac/iot/tenant/TenantIdHolder.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/iot/tenant/TenantCannotBeNullException.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/iot/autoconfigure/IdHolderAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/iot/autoconfigure/SchedulingAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/ioiot/autoconfigure/SchedulingAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/aciot/autoconfigure/SchedulingAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/iot/logging/a.java" />
+        <option value="$PROJECT_DIR$/iot-starter-idholder/pom.xml" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/iot/autoconfigure/as.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/iot/distributedlock/LockAlreadyOccupiedException.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/iot/distributedlock/DistributedLockExecutor.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/event/publisher/DomainEventBac.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/event/publisher/DomainEventPublishAspect.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/event/consumer/DomainEventRecordingConsumer.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/pom.xml" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/iot/logging/f.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/iot/logging/RequestIdMdcFilter.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/event/publisher/DomainEventAwareRepository.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/util/BeanUtil.java" />
+        <option value="$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/iot/feignclient/FeignParamValueProvider.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/pom.xml" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/DomainEventAwareRepository.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/TenantEventType.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/DomainEventType.java" />
+        <option value="$PROJECT_DIR$/iot-starter-sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/event/publisher/DomainEventPublisher.java" />
+        <option value="$PROJECT_DIR$/iot-starter-idempotency/pom.xml" />
+        <option value="$PROJECT_DIR$/iot-starter-sleuth/src/main/java/io/ac/iot/autoconfigure/SleuthAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/iot/autoconfigure/DistributedLockAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/iot/autoconfigure/SchedulingAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-redisclient/src/main/java/io/ac/iot/autoconfigure/RedisClientAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-idholder/src/main/java/io/ac/iot/autoconfigure/IdHolderAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-feignclient/pom.xml" />
+        <option value="$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/iot/autoconfigure/FeignClientAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/iot/feignclient/FeignClientConfig.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/event/publisher/KafkaDomainEventSender.java" />
+        <option value="$PROJECT_DIR$/iot-starter-exceptionhandler/src/main/java/io/ac/iot/autoconfigure/ExceptionHandlerAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-exceptionhandler/src/main/java/io/ac/iot/exceptionhandler/RestExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/util/DefaultObjectMapper.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/DomainEvent.java" />
+        <option value="$PROJECT_DIR$/iot-starter-idempotency/src/main/java/io/ac/iot/autoconfigure/IdempotencyAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/autoconfigure/DomainEventHandlerProperties.java" />
+        <option value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/autoconfigure/DomainEventHandlerAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/iot/feignclient/InnerRestResultHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="iot-starter-domaineventhandler" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="iot-starter-domaineventhandler" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+              <item name="DomainEventHandlerProperties.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+              <item name="publisher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-domaineventhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-exceptionhandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-exceptionhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-exceptionhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-exceptionhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-exceptionhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-exceptionhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-exceptionhandler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptionhandler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-feignclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-feignclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-feignclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-feignclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-feignclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-feignclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-feignclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="feignclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-feignclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-feignclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idempotency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idempotency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idempotency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idempotency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idempotency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idempotency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idholder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idholder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idholder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idholder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idholder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idholder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-starters" type="462c0819:PsiDirectoryNode" />
+              <item name="iot-starter-idholder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="operatorid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: net.javacrumbs.shedlock:shedlock-core:2.4.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: net.javacrumbs.shedlock:shedlock-core:2.4.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="shedlock-core-2.4.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: net.javacrumbs.shedlock:shedlock-core:2.4.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="shedlock-core-2.4.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="shedlock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: net.javacrumbs.shedlock:shedlock-core:2.4.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="shedlock-core-2.4.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="shedlock" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.4" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.4.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.reflections:reflections:0.9.11" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.reflections:reflections:0.9.11" type="70bed36:NamedLibraryElementNode" />
+              <item name="reflections-0.9.11.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.reflections:reflections:0.9.11" type="70bed36:NamedLibraryElementNode" />
+              <item name="reflections-0.9.11.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="reflections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.reflections:reflections:0.9.11" type="70bed36:NamedLibraryElementNode" />
+              <item name="reflections-0.9.11.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="reflections" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-sleuth-core:2.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-sleuth-core:2.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-sleuth-core-2.1.7.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-sleuth-core:2.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-sleuth-core-2.1.7.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-sleuth-core:2.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-sleuth-core-2.1.7.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="sleuth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-sleuth-core:2.1.7.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-sleuth-core-2.1.7.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="sleuth" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-starters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-core:5.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-core-5.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582804960038" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/iot/event" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../iot" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2084399" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.ac.iot.distributedlock" />
+      <recent name="io.ac.iot.event.publisher" />
+      <recent name="io.ac.iot.event" />
+      <recent name="io.ac.iot.autoconfigure" />
+      <recent name="io.ac.iot.idempotency" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.ac.iot" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ac\iot-starters\iot-starter-scheduling\src\main\resources" />
+      <recent name="E:\ac\iot-starters\iot-starter-scheduling\src\main\java" />
+      <recent name="E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\resources" />
+      <recent name="E:\ac\iot-starters\iot-starter-exceptionhandler\src\main\resources" />
+      <recent name="E:\ac\iot-starters\iot-starter-idempotency\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="iot-starters" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="iot-starters" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59a0b892-bbbc-4fec-b3b2-7fbcd332b947" name="Default Changelist" comment="" />
+      <created>1581998510103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581998510103</updated>
+      <workItem from="1581998516626" duration="13738000" />
+      <workItem from="1582037915533" duration="660000" />
+      <workItem from="1582077052274" duration="1246000" />
+      <workItem from="1582122681766" duration="2772000" />
+      <workItem from="1582249248885" duration="13101000" />
+      <workItem from="1582289503110" duration="3862000" />
+      <workItem from="1582298615714" duration="599000" />
+      <workItem from="1582338902420" duration="598000" />
+      <workItem from="1582475138385" duration="101000" />
+      <workItem from="1582475262636" duration="120000" />
+      <workItem from="1582506571741" duration="9695000" />
+      <workItem from="1582530258674" duration="6625000" />
+      <workItem from="1582595647847" duration="18298000" />
+      <workItem from="1582622494314" duration="1202000" />
+      <workItem from="1582679240927" duration="19716000" />
+      <workItem from="1582723735642" duration="5880000" />
+      <workItem from="1582730844917" duration="899000" />
+      <workItem from="1582765520392" duration="7303000" />
+      <workItem from="1582851382338" duration="281000" />
+      <workItem from="1582853817306" duration="6288000" />
+      <workItem from="1582882438387" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="113626000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7118402" visible="true" weight="0.1418919" />
+      <window_info id="Structure" order="1" sideWeight="0.28815976" side_tool="true" weight="0.22281879" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5003897" side_tool="true" weight="0.20151034" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.248636" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.17329094" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3298887" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7118402" visible="true" weight="0.22281879" />
+      <window_info id="Structure" order="1" sideWeight="0.28815976" side_tool="true" visible="true" weight="0.22281879" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5003897" side_tool="true" weight="0.20151034" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.5097381" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3298887" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/starter/event/publisher/KafkaDomainEventBackupPublishScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/javacrumbs/shedlock/shedlock-core/2.4.0/shedlock-core-2.4.0.jar!/net/javacrumbs/shedlock/core/LockConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/starter/event/publisher/DomainEventPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/bind/annotation/ControllerAdvice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/bind/annotation/RestControllerAdvice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/bind/annotation/ResponseBody.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-feign/1.4.6.RELEASE/spring-cloud-starter-feign-1.4.6.RELEASE.jar!/META-INF/maven/org.springframework.cloud/spring-cloud-starter-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-idempotency/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-redisclient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-idempotency/src/main/java/io/ac/starter/idempotency/OpTokenRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-idempotency/src/main/java/io/ac/starter/idempotency/IdempotencyOperationInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.6.RELEASE/spring-cloud-netflix-core-1.4.6.RELEASE.jar!/org/springframework/cloud/netflix/feign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/starter/autoconfigure/DistributedLockAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-scheduling/src/main/java/io/ac/starter/autoconfigure/SchedulingAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+          <folding>
+            <element signature="e#1396#1397#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-redisclient/src/main/java/io/ac/starter/autoconfigure/RedisClientAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.5.0/feign-core-9.5.0.jar!/feign/RequestInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/starter/event/publisher/KafkaDomainEventSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-sleuth/src/main/java/io/ac/starter/autoconfigure/SleuthProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-sleuth/src/main/java/io/ac/starter/autoconfigure/SleuthAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-sleuth/src/main/java/io/ac/starter/sleuth/SleuthInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-idholder/src/main/java/io/ac/starter/autoconfigure/IdHolderAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-idholder/src/main/java/io/ac/starter/autoconfigure/IdHolderProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-idholder/src/main/java/io/ac/starter/operatorid/OperatorIdCannotBeNullException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-idholder/src/main/java/io/ac/starter/operatorid/OperatorIdHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/doment_event.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" column="24" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-exceptionhandler/src/main/java/io/ac/starter/autoconfigure/ExceptionHandlerProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-sleuth/src/main/java/io/ac/starter/sleuth/RestResponseBodyAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-exceptionhandler/src/main/java/io/ac/starter/exceptionhandler/RestExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/reflections/reflections/0.9.11/reflections-0.9.11.jar!/org/reflections/util/ConfigurationBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="155" column="32" selection-start-line="155" selection-start-column="32" selection-end-line="155" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/starter/util/DefaultObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/starter/DomainEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-449">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1322#1323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-exceptionhandler/src/main/java/io/ac/starter/autoconfigure/ExceptionHandlerAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1277#1278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-idempotency/src/main/java/io/ac/starter/autoconfigure/IdempotencyAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="127" column="12" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_201/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="e#2293#2294#0" expanded="true" />
+            <element signature="e#2327#2328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="111" column="7" lean-forward="true" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
+          <folding>
+            <element signature="e#10570#10571#0" expanded="true" />
+            <element signature="e#10602#10603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/starter/autoconfigure/DomainEventHandlerProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="45" column="43" lean-forward="true" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/java/io/ac/starter/autoconfigure/DomainEventHandlerAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/feignclient/InnerRestResultHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.4/aspectjweaver-1.9.4.jar!/org/aspectj/lang/annotation/Around.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/feignclient/FeignClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/feignclient/FeignParamValueProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/feignclient/InnerHooker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.2.RELEASE/spring-core-5.2.2.RELEASE.jar!/org/springframework/util/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-domaineventhandler/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/autoconfigure/FeignClientAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/java/io/ac/starter/autoconfigure/FeignClientProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iot-starter-feignclient/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|iot-starter-feignclient</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2084399" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2084399" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework.cloud:spring-cloud-netflix-core:1.4.7.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37444934" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean deploy" />
+    <option value="clean" />
+    <option value="deploy" />
+    <option value="package" />
+  </component>
+</project>

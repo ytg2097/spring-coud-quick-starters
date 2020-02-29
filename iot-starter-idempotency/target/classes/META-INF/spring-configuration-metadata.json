@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "io.ac.iot.idempotency",
+      "type": "io.ac.starter.autoconfigure.IdempotencyProperties",
+      "sourceType": "io.ac.starter.autoconfigure.IdempotencyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "io.ac.iot.idempotency.app-name",
+      "type": "java.lang.String",
+      "sourceType": "io.ac.starter.autoconfigure.IdempotencyProperties"
+    },
+    {
+      "name": "io.ac.iot.idempotency.timeout-of-op-token",
+      "type": "java.lang.Integer",
+      "sourceType": "io.ac.starter.autoconfigure.IdempotencyProperties",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

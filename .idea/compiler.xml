@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="iot-starter-domaineventhandler" />
+        <module name="iot-starter-exceptionhandler" />
+        <module name="iot-starter-feignclient" />
+        <module name="iot-starter-idempotency" />
+        <module name="iot-starter-idholder" />
+        <module name="iot-starter-redisclient" />
+        <module name="iot-starter-scheduling" />
+        <module name="iot-starter-sleuth" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

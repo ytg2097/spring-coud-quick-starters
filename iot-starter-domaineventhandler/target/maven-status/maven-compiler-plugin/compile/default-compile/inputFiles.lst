@@ -1,0 +1,15 @@
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\event\consumer\DomainEventRecordingConsumer.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\util\BeanUtil.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\util\DefaultObjectMapper.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\event\consumer\DomainEventRecordDao.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\event\publisher\DomainEventPublisher.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\autoconfigure\DomainEventHandlerProperties.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\DomainEvent.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\autoconfigure\DomainEventHandlerAutoConfiguration.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\event\consumer\DomainEventRecordingConsumerAspect.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\event\publisher\KafkaDomainEventSender.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\event\publisher\DomainEventDao.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\DomainEventAwareRepository.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\DomainEventAwareAggregate.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\event\publisher\KafkaDomainEventBackupPublishScheduler.java
+E:\ac\iot-starters\iot-starter-domaineventhandler\src\main\java\io\ac\starter\event\publisher\DomainEventPublishAspect.java

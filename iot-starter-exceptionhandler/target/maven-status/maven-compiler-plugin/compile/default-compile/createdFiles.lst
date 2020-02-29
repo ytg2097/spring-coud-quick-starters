@@ -1,0 +1,4 @@
+io\ac\starter\autoconfigure\ExceptionHandlerAutoConfiguration.class
+io\ac\starter\autoconfigure\ExceptionHandlerProperties.class
+io\ac\starter\exceptionhandler\RestExceptionHandler.class
+META-INF\spring-configuration-metadata.json

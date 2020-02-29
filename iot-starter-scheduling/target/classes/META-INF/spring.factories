@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.ac.starter.autoconfigure.DistributedLockAutoConfiguration,\
+io.ac.starter.autoconfigure.SchedulingAutoConfiguration

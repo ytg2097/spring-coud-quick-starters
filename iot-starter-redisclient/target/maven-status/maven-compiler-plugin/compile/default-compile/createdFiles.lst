@@ -1,0 +1,4 @@
+io\ac\starter\autoconfigure\RedisClientProperties.class
+io\ac\starter\autoconfigure\RedisClientAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
+io\ac\starter\redis\RedisClient.class
