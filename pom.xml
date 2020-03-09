@@ -23,7 +23,7 @@
         <module>iot-starter-idempotency</module>
         <module>iot-starter-redisclient</module>
         <module>iot-starter-exceptionhandler</module>
-        <module>iot-starter-domaineventhandler</module>
+        <module>iot-starter-eventbus</module>
         <module>iot-starter-scheduling</module>
     </modules>
 
