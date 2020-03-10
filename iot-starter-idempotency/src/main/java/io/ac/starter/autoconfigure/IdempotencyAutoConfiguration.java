@@ -43,39 +43,6 @@ public class IdempotencyAutoConfiguration {
     }
 
     /**
-     * api-gateway-platform
-     * api-gateway-mobile
-     *
-     *
-     * service-device
-     *            -  :Device
-     *            -  :DeviceComponent
-     *            -  :DeviceAlarmDecision
-     *            -  :DeviceOfflineDecision
-     * service-order
-     *            -  :Order
-     * service-tenant
-     *            -  :Tenant
-     *
-     * service-log
-     *            -  :OperationLog
-     *                      request-param-operation
-     * service-device-data
-     *
-     *            -  :Alarm
-     *            -  :Communication
-     *            -  :DeviceHistory
-     *
-     * service-order-history
-     *            -  :OrderHistory
-     *
-     * service-notification
-     *            -  :Notification
-     *
-     * infrastructure-config-center
-     * infrastructure-eureka-server
-     * infrastructure-saga-alpha
-     *
      *
      * @return
      */

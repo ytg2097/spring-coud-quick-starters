@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>iot-starter-exceptionhandler</artifactId>
+    <artifactId>iot-starter-webcore</artifactId>
     <version>1.0.0</version>
 
     <dependencies>
@@ -35,6 +35,26 @@
             <scope>provided</scope>
         </dependency>
 
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>RELEASE</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>io.ac</groupId>
+            <artifactId>iot-starter-idempotency</artifactId>
+            <version>1.0.0</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>io.ac</groupId>
+            <artifactId>iot-starter-sleuth</artifactId>
+            <version>1.0.0</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
 </project>

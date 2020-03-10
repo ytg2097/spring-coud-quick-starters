@@ -25,8 +25,8 @@ public class IdempotencyOperationInterceptor extends HandlerInterceptorAdapter {
 
         if (needIdempotency(method)) {
             String opToken = request.getParameter(WebConst.REQUEST_HEADER_OP_TOKEN);
-
-            if (opToken == null || opToken.trim().length() == 0) {// 意味着不是 Feign 的调用方式
+            // 意味着不是 Feign 的调用方式
+            if (opToken == null || opToken.trim().length() == 0) {
                 return true;
             }
             if (opTokenRepository.exsits(opToken)) {

@@ -22,7 +22,6 @@ public class KafkaDomainEventBackupPublishScheduler {
 
     @Scheduled(fixedDelay = 120000)
     public void run() {
-        logger.info("Scheduled trigger domain event publish process.");
         publisher.publish();
     }
 
