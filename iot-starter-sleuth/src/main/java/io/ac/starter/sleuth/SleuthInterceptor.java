@@ -12,6 +12,9 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import static io.ac.starter.autoconfigure.SleuthProperties.SWAGGER_URI1;
+import static io.ac.starter.autoconfigure.SleuthProperties.SWAGGER_URI2;
+
 /**
  * @description:
  * @author: yangtg
@@ -27,6 +30,10 @@ public class SleuthInterceptor implements HandlerInterceptor {
 
     @Override
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) {
+
+        if(request.getRequestURI().contains(SWAGGER_URI1) ||  request.getRequestURI().contains(SWAGGER_URI2)){
+            return true;
+        }
         LOGGER.info(sleuthProperties.getName() + "-request:" + HttpUtil.requestToStr(request));
         return true;
     }

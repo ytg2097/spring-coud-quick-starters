@@ -25,6 +25,7 @@
         <module>iot-starter-webcore</module>
         <module>iot-starter-eventbus</module>
         <module>iot-starter-scheduling</module>
+        <module>iot-starter-swagger</module>
     </modules>
 
 

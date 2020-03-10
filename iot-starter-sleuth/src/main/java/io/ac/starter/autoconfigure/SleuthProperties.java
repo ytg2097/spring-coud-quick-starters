@@ -19,4 +19,7 @@ public class SleuthProperties {
     }
 
     private String name;
+
+    public static final String SWAGGER_URI1 = "swagger";
+    public static final String SWAGGER_URI2 = "api-docs";
 }

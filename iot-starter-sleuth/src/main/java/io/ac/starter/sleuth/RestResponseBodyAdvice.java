@@ -12,6 +12,9 @@ import org.springframework.http.server.ServerHttpResponse;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
+import static io.ac.starter.autoconfigure.SleuthProperties.SWAGGER_URI1;
+import static io.ac.starter.autoconfigure.SleuthProperties.SWAGGER_URI2;
+
 /**
  * @description:
  * @author: yangtg
@@ -32,6 +35,10 @@ public class RestResponseBodyAdvice implements ResponseBodyAdvice {
 
     @Override
     public Object beforeBodyWrite(Object body, MethodParameter returnType, MediaType selectedContentType, Class selectedConverterType, ServerHttpRequest request, ServerHttpResponse response) {
+
+        if(request.getURI().getPath().contains(SWAGGER_URI1) ||  request.getURI().getPath().contains(SWAGGER_URI2)){
+            return body;
+        }
         LOGGER.info(sleuthProperties.getName() + "-response:" + JsonUtil.toJson(body));
         return body;
     }
