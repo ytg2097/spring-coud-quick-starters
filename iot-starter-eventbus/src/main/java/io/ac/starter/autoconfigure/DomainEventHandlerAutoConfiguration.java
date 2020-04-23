@@ -23,14 +23,10 @@ import static com.google.common.collect.Lists.newArrayList;
  **/
 @Configuration
 @EnableConfigurationProperties({
-                DomainEventHandlerRedisProperties.class,
-                DomainEventHandlerKafkaProperties.class,
-                DomainEventHandlerProperties.class
+        DomainEventHandlerRedisProperties.class,
+        DomainEventHandlerKafkaProperties.class,
+        DomainEventHandlerProperties.class
 })
-@ConditionalOnProperty(
-        name = "event.drive",
-        havingValue = "enable"
-)
 @ComponentScan(basePackages = {"io.ac.starter.distributedlock", "io.ac.starter.event"})
 @EnableBinding
 public class DomainEventHandlerAutoConfiguration {
@@ -46,7 +42,7 @@ public class DomainEventHandlerAutoConfiguration {
     }
 
     @Bean
-    public DefaultObjectMapper defaultObjectMapper(){
+    public DefaultObjectMapper defaultObjectMapper() {
 
         List<String> strings = config.getScanPackages() == null || config.getScanPackages().isEmpty() ? newArrayList() : config.getScanPackages();
         strings.add("io.ac.iot");
@@ -54,7 +50,7 @@ public class DomainEventHandlerAutoConfiguration {
     }
 
     @Bean
-    public BeanUtil.ContextLoadedListener beanUtil(){
+    public BeanUtil.ContextLoadedListener beanUtil() {
 
         return new BeanUtil.ContextLoadedListener();
     }

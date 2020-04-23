@@ -5,8 +5,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 import java.util.List;
 
-import static com.google.common.collect.Lists.newArrayList;
-
 /**
  * @description:
  * @author: yangtg

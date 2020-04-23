@@ -36,7 +36,7 @@ public class DomainEventDao {
         String sql = "INSERT INTO DOMAIN_EVENT (ID, JSON_CONTENT) VALUES (:id, :json);";
 
         SqlParameterSource[] parameters = events.stream()
-                .map((Function<DomainEvent, SqlParameterSource>) domainEvent ->
+                .map(domainEvent ->
                         new MapSqlParameterSource()
                                 .addValue("id", domainEvent.get_id())
                                 .addValue("json", objectMapper.writeValueAsString(domainEvent)))

@@ -7,10 +7,17 @@ import common.rest.RestResult;
 import common.rest.RestStatus;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.context.support.DefaultMessageSourceResolvable;
 import org.springframework.http.converter.HttpMessageConversionException;
 import org.springframework.orm.ObjectOptimisticLockingFailureException;
+import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+import javax.validation.ValidationException;
+import java.util.stream.Collectors;
+
+import static common.exception.CommonErrorCodes.VALIDATE_PARAMETERS_ERROR;
 
 /**
  * @description:
@@ -21,6 +28,30 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 public class RestExceptionHandler {
 
     private static Logger LOGGER = LoggerFactory.getLogger(RestExceptionHandler.class);
+
+    /**
+     * 处理 spring @Validated 抛出异常
+     */
+    @ExceptionHandler(MethodArgumentNotValidException.class)
+    public RestResult handleSpringValidatedMethodArgumentNotValidException(MethodArgumentNotValidException ex) {
+        String msg = ex.getBindingResult().getAllErrors().stream().map(DefaultMessageSourceResolvable::getDefaultMessage).collect(Collectors.joining("\n"));
+
+        RestStatus status = new RestStatus(VALIDATE_PARAMETERS_ERROR, msg);
+        LOGGER.info(msg);
+        return new RestResult(status);
+    }
+
+    /**
+     * 处理 jsr303 @Valid 抛出异常
+     */
+    @ExceptionHandler(ValidationException.class)
+    public RestResult handleJSR303ValidMethodArgumentNotValidException(ValidationException ex) {
+
+        String msg = ex.getMessage();
+        RestStatus status = new RestStatus(VALIDATE_PARAMETERS_ERROR, msg);
+        LOGGER.info(msg);
+        return new RestResult(status);
+    }
 
     /**
      * 处理 BusinessException
