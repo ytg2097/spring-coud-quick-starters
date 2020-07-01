@@ -32,8 +32,8 @@ public class DomainEventPublishAspect {
             "@annotation(org.springframework.web.bind.annotation.PutMapping) || " +
             "@annotation(org.springframework.web.bind.annotation.PatchMapping) || " +
             "@annotation(org.springframework.web.bind.annotation.DeleteMapping) ||" +
-            "@annotation(org.springframework.kafka.annotation.KafkaListener) ||" +
-            "@annotation(org.springframework.kafka.annotation.KafkaListeners) ||" +
+//            "@annotation(org.springframework.kafka.annotation.KafkaListener) ||" +
+//            "@annotation(org.springframework.kafka.annotation.KafkaListeners) ||" +
             "@annotation(org.springframework.cloud.stream.annotation.StreamListener)")
     public void publishEvents(JoinPoint joinPoint) {
 

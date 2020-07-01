@@ -20,8 +20,8 @@ public class DomainEventRecordingConsumerAspect {
         this.domainEventRecordingConsumer = domainEventRecordingConsumer;
     }
 
-    @Around("@annotation(org.springframework.kafka.annotation.KafkaListener) || " +
-            "@annotation(org.springframework.kafka.annotation.KafkaListeners)|| " +
+    @Around(/*"@annotation(org.springframework.kafka.annotation.KafkaListener) || " +
+            "@annotation(org.springframework.kafka.annotation.KafkaListeners)|| " +*/
             "@annotation(org.springframework.cloud.stream.annotation.StreamListener)")
     public Object recordEvents(ProceedingJoinPoint joinPoint) throws Throwable {
 

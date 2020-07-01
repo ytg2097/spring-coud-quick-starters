@@ -1,4 +1,4 @@
-package io.ac.starter.operatorid;
+package io.ac.starter.util;
 
 import org.springframework.util.StringUtils;
 import org.springframework.web.context.request.RequestAttributes;
@@ -12,31 +12,44 @@ import javax.servlet.http.HttpServletRequest;
  * @author: yangtg
  * @create: 2020-02-18
  **/
-public class OperatorIdHolder {
+public class RequestHeadHolder {
 
-    public String getOperatorId() {
+    public enum RequestHead{
+
+        TENANT_ID("tid"),
+        LOGIN_NAME("operatorName"),
+        OPERATOR_ID("operatorId");
+        private String name;
+
+        RequestHead(String name) {
+            this.name = name;
+        }
+
+    }
+
+    public static String get(RequestHead head) {
         RequestAttributes requestAttributes = RequestContextHolder.getRequestAttributes();
         if (requestAttributes == null) {
-            throw new OperatorIdCannotBeNullException();
+            throw new RequestHeadCannotBeNullException(head.name);
         } else {
             HttpServletRequest request = ((ServletRequestAttributes)requestAttributes).getRequest();
-            String operatorId = request.getHeader("operatorId");
-            if (StringUtils.isEmpty(operatorId)) {
-                throw new OperatorIdCannotBeNullException();
+            String tid = request.getHeader(head.name);
+            if (StringUtils.isEmpty(tid)) {
+                throw new RequestHeadCannotBeNullException(head.name);
             } else {
-                return operatorId;
+                return tid;
             }
         }
     }
 
-    public String findOperatorId() {
+    public static String find(RequestHead head) {
         RequestAttributes requestAttributes = RequestContextHolder.getRequestAttributes();
         if (requestAttributes == null) {
             return null;
         } else {
             HttpServletRequest request = ((ServletRequestAttributes)requestAttributes).getRequest();
-            String operatorId = request.getHeader("operatorId");
-            return StringUtils.isEmpty(operatorId) ? null : operatorId;
+            String tid = request.getHeader(head.name);
+            return StringUtils.isEmpty(tid) ? null : tid;
         }
     }
 }
